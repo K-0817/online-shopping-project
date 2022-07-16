@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "ShortName": "Fedex",
+    "Description": "Fastest delivery time",
+    "DeliveryTime": "2 Days",
+    "Price": 350
+  },
+  {
+    "Id": 2,
+    "ShortName": "Blue Dart",
+    "Description": "Delivery within 5 days",
+    "DeliveryTime": "5 Days",
+    "Price": 250
+  },
+  {
+    "Id": 3,
+    "ShortName": "DTDC",
+    "Description": "Delivery within 10 days",
+    "DeliveryTime": "10 Days",
+    "Price": 175
+  },
+  {
+    "Id": 4,
+    "ShortName": "First Flight",
+    "Description": "Delivery within 2 weeks",
+    "DeliveryTime": "2 Weeks",
+    "Price": 100
+  }
+]
